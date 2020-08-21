@@ -42,7 +42,7 @@ Screenshots
 ![List of plants](screenshots/phone_plant_list.png "A list of plants")
 ![Plant details](screenshots/phone_plant_detail.png "Details for a specific plant")
 ![My Garden](screenshots/phone_my_garden.png "Plants that have been added to your garden")
-![My App](C:/Users/Valeriy/Desktop/iZVWEwZmHTQ.jpg)
+![My App](C:\Users\Valeriy\Desktop/iZVWEwZmHTQ.jpg)
 ![PIA22949_hires](https://user-images.githubusercontent.com/50931100/71172744-1ad4ef00-2272-11ea-91ea-a77447c5712a.jpg)
 
 Libraries Used
